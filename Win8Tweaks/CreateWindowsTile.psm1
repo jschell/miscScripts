@@ -11,6 +11,9 @@
 #loss of business information, or other pecuniary loss) arising out of the use 
 #of or inability to use the sample scripts or documentation, even if Microsoft 
 #has been advised of the possibility of such damages 
+#
+# Script from:
+# http://gallery.technet.microsoft.com/scriptcenter/Create-a-ShutdownRestartLog-37c8111d
 #--------------------------------------------------------------------------------- 
 
 #requires -Version 3.0
